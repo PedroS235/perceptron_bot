@@ -4,6 +4,21 @@
 
 ![Perceptron Bot](./assets/imgs/banner.png)
 
+## Table of contents
+
+<!--toc:start-->
+
+- [Table of contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Vision and Purpose](#vision-and-purpose)
+- [Repository Highlights](#repository-highlights)
+- [YouTube Series](#youtube-series)
+- [Join the Adventure](#join-the-adventure)
+- [Documentation](#documentation)
+- [License](#license)
+- [Contact](#contact)
+  <!--toc:end-->
+
 ## Introduction
 
 Welcome to the captivating world of the Perceptron Bot!
@@ -49,6 +64,10 @@ Enthusiasts and developers are invited to contribute to the Perceptron Bot proje
 2. **Branch Out:** Develop your contributions in dedicated branches.
 3. **Ignite Change:** Tackle issues, enhance features, and propose new ideas.
 4. **Submit Pull Requests:** Initiate conversations about your contributions.
+
+## Documentation
+
+- [Bill of Materials (BOM)](./docs/bom.md)
 
 ## License
 
