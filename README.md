@@ -2,7 +2,7 @@
 
 **Welcome to the Perceptron Bot Repository!**
 
-![Perceptron Bot](./assets/imgs/banner.png)
+![Perceptron Bot](./assets/imgs/hero.png)
 
 ## Table of contents
 
