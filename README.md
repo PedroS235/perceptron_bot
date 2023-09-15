@@ -10,6 +10,8 @@
 
 - [Table of contents](#table-of-contents)
 - [Introduction](#introduction)
+- [Getting Started](#getting-started)
+  - [Dependencies](#dependencies)
 - [Vision and Purpose](#vision-and-purpose)
 - [Repository Highlights](#repository-highlights)
 - [YouTube Series](#youtube-series)
@@ -28,6 +30,21 @@ robot right from its foundational components. The Perceptron Bot, at its core,
 serves as the dynamic canvas for this venture, offering a versatile platform
 to assemble a range of integral elements, including LiDAR, onboard computing,
 and a diverse array of sensors.
+
+## Getting Started
+
+To begin with, you will need to clone this repo. Since it contains submodules,
+you will need to clone using the following command:
+
+```sh
+git clone --recurse-submodules git@github.com:PedroS235/perceptron_bot.git
+```
+
+### Dependencies
+
+- Ubuntu 22.04
+- PlatformIO (CLI)
+- ROS Humble and above
 
 ## Vision and Purpose
 
