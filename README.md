@@ -68,6 +68,7 @@ Enthusiasts and developers are invited to contribute to the Perceptron Bot proje
 ## Documentation
 
 - [Bill of Materials (BOM)](./docs/bom.md)
+- [CAD & STL](./CAD/README.md)
 
 ## License
 
