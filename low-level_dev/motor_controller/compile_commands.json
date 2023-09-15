@@ -1,0 +1,158 @@
+[
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328new/FrameworkArduino/CDC.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/CDC.cpp",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/CDC.cpp",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/CDC.cpp.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328new/FrameworkArduino/HardwareSerial.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial.cpp",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial.cpp",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/HardwareSerial.cpp.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328new/FrameworkArduino/HardwareSerial0.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial0.cpp",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial0.cpp",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/HardwareSerial0.cpp.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328new/FrameworkArduino/HardwareSerial1.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial1.cpp",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial1.cpp",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/HardwareSerial1.cpp.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328new/FrameworkArduino/HardwareSerial2.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial2.cpp",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial2.cpp",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/HardwareSerial2.cpp.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328new/FrameworkArduino/HardwareSerial3.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial3.cpp",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial3.cpp",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/HardwareSerial3.cpp.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328new/FrameworkArduino/IPAddress.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/IPAddress.cpp",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/IPAddress.cpp",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/IPAddress.cpp.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328new/FrameworkArduino/PluggableUSB.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/PluggableUSB.cpp",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/PluggableUSB.cpp",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/PluggableUSB.cpp.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328new/FrameworkArduino/Print.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/Print.cpp",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/Print.cpp",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/Print.cpp.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328new/FrameworkArduino/Stream.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/Stream.cpp",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/Stream.cpp",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/Stream.cpp.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328new/FrameworkArduino/Tone.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/Tone.cpp",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/Tone.cpp",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/Tone.cpp.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328new/FrameworkArduino/USBCore.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/USBCore.cpp",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/USBCore.cpp",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/USBCore.cpp.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328new/FrameworkArduino/WInterrupts.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/WInterrupts.c",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/WInterrupts.c",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/WInterrupts.c.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328new/FrameworkArduino/WMath.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/WMath.cpp",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/WMath.cpp",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/WMath.cpp.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328new/FrameworkArduino/WString.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/WString.cpp",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/WString.cpp",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/WString.cpp.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328new/FrameworkArduino/abi.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/abi.cpp",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/abi.cpp",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/abi.cpp.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328new/FrameworkArduino/hooks.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/hooks.c",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/hooks.c",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/hooks.c.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328new/FrameworkArduino/main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/main.cpp",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/main.cpp",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/main.cpp.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328new/FrameworkArduino/new.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/new.cpp",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/new.cpp",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/new.cpp.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328new/FrameworkArduino/wiring.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/wiring.c",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/wiring.c",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/wiring.c.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328new/FrameworkArduino/wiring_analog.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_analog.c",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_analog.c",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/wiring_analog.c.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328new/FrameworkArduino/wiring_digital.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_digital.c",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_digital.c",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/wiring_digital.c.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -mmcu=atmega328p -x assembler-with-cpp -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs -c -o .pio/build/nanoatmega328new/FrameworkArduino/wiring_pulse.S.o /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.S",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.S",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/wiring_pulse.S.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328new/FrameworkArduino/wiring_pulse.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.c",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.c",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/wiring_pulse.c.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328new/FrameworkArduino/wiring_shift.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_shift.c",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_shift.c",
+        "output": ".pio/build/nanoatmega328new/FrameworkArduino/wiring_shift.c.o"
+    },
+    {
+        "command": "/home/pedros235/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328new/src/main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60109 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Iinclude -Isrc -I/home/pedros235/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/pedros235/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs src/main.cpp",
+        "directory": "/home/pedros235/projects/perceptron_bot/low-level_dev/motor_controller",
+        "file": "src/main.cpp",
+        "output": ".pio/build/nanoatmega328new/src/main.cpp.o"
+    }
+]
