@@ -3,6 +3,7 @@
 <!--toc:start-->
 
 - [CAD Instructions](#cad-instructions)
+- [CAD Parameters](cad-parameters)
 - [Printing Instructions](#printing-instructions)
   - [Printing Settings](#printing-settings)
 - [External Components CAD Authors](#external-components-cad-authors)
@@ -23,6 +24,31 @@ files for you to make use of them.
 
 On the other hand, in case you just want to have the completed robot design,
 to adapt some part for instance, you can use the files starting with `perceptron_bot`.
+
+## CAD Parameters
+
+| Name                  | value (mm)                      |
+| --------------------- | ------------------------------- |
+| **m2_nut**            | 4                               |
+| **m3_nut**            | 5.6                             |
+| **m3_head**           | 6.0                             |
+| **hole_offset**       | 0.5                             |
+| **chassis_size**      | 170                             |
+| **l298_hole**         | 37.38                           |
+| **l298_hole_h**       | 36.74                           |
+| **l298_hole_d**       | 3.0                             |
+| **pc_size_w**         | 100 (odroid N2+) \| 56.0 (Pi4)  |
+| **pc_size_h**         | 91.0 (odroid N2+) \| 85.0 (Pi4) |
+| **pc_hole_placement** | 9.75 (odroid N2+) \| 3.5 (Pi4)  |
+| **pc_hole_w**         | 71.5 (odroid N2+) \| 49.0 (Pi4) |
+| **pc_hole_h**         | 71.5 (odroid N2+) \| 58.0 (Pi4) |
+| **pc_hole_d**         | 3.0 (odroid N2+) \| 2.5 (Pi4)   |
+| **motor_hole_w**      | 16.2                            |
+| **motor_hole_h**      | 14.2                            |
+| **motor_hole_d**      | 3.0                             |
+| **motor_offset**      | 13.0                            |
+| **space_b_plates**    | 38.0                            |
+| **pillars_offset**    | 6.0                             |
 
 ## Printing Instructions
 
