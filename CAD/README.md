@@ -11,6 +11,14 @@
 
 In this directory, you can find all the CAD files and also ready to print STLs.
 
+## **DISCLAIMER!!!!**
+After having printing and assemble the robot, I encountered some problems which need some revision on the design.
+
+Here are some of them:
+1. The cut out for the usb access for both the raspberry pi and odroid n2+ needs to be changed.
+2. The fact of using a USB A to mini USB, from the Arduino to PI/odroid is not a very elegant solution.
+3. There is the need of a front caster wheel, at least with the odroid N2+ board
+
 ## CAD Instructions
 
 There are 3 types of file extensions, `.f3d`, `.f3z` and `.step`. In case you are
