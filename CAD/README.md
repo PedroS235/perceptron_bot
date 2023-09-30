@@ -3,21 +3,13 @@
 <!--toc:start-->
 
 - [CAD Instructions](#cad-instructions)
-- [CAD Parameters](cad-parameters)
+- [CAD Parameters](#cad-parameters)
 - [Printing Instructions](#printing-instructions)
   - [Printing Settings](#printing-settings)
 - [External Components CAD Authors](#external-components-cad-authors)
 <!--toc:end-->
 
 In this directory, you can find all the CAD files and also ready to print STLs.
-
-## **DISCLAIMER!!!!**
-After having printing and assemble the robot, I encountered some problems which need some revision on the design.
-
-Here are some of them:
-1. The cut out for the usb access for both the raspberry pi and odroid n2+ needs to be changed.
-2. The fact of using a USB A to mini USB, from the Arduino to PI/odroid is not a very elegant solution.
-3. There is the need of a front caster wheel, at least with the odroid N2+ board
 
 ## CAD Instructions
 
@@ -42,7 +34,7 @@ to adapt some part for instance, you can use the files starting with `perceptron
 | **m3_head**           | 6.0                             |
 | **hole_offset**       | 0.5                             |
 | **chassis_size**      | 170                             |
-| **l298_hole**         | 37.38                           |
+| **l298_hole**         | 38.0                           |
 | **l298_hole_h**       | 36.74                           |
 | **l298_hole_d**       | 3.0                             |
 | **pc_size_w**         | 100 (odroid N2+) \| 56.0 (Pi4)  |
