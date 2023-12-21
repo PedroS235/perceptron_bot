@@ -1,3 +1,6 @@
 [submodule "low_level/motor_controller"]
 	path = low_level/motor_controller
 	url = git@github.com:PedroS235/motor_controller.git
+[submodule "perceptron_ws"]
+	path = perceptron_ws 
+	url = git@github.com:PedroS235/perceptron_ws.git
