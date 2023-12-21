@@ -3,4 +3,4 @@
 	url = git@github.com:PedroS235/motor_controller.git
 [submodule "perceptron_ws"]
 	path = perceptron_ws
-	url = https://github.com/PedroS235/perceptron_ws.git
+	url = git@github.com:PedroS235/perceptron_ws.git
